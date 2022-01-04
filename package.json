@@ -1,0 +1,31 @@
+{
+  "name": "@kira272921/tailwindcsscli",
+  "version": "1.0.0",
+  "description": "A CLI for generating starter files for different JS frameworks with tailwindCSS pre-installed",
+  "main": "./bin/index.js",
+  "bin": {
+    "tcli": "./bin/index.js"
+  },
+  "scripts": {
+    "start": "node ./bin/index.js"
+  },
+  "keywords": [
+    "cli",
+    "tailwindcss",
+    "nodejs"
+  ],
+  "author": "Kira272921",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^8.2.0",
+    "shelljs": "^0.8.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kira272921/tailwindcsscli.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Kira272921/tailwindcsscli/issues"
+  },
+  "homepage": "https://github.com/Kira272921/tailwindcsscli/issues#readme"
+}
