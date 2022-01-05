@@ -1,6 +1,6 @@
 {
   "name": "@kira272921/tailwindcsscli",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A CLI for generating starter files for different JS frameworks with tailwindCSS pre-installed",
   "main": "./bin/index.js",
   "bin": {
